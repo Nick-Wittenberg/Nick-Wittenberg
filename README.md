@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying a diploma of software development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me:   
-  - email: nickwittenberg@developersinstitute.co.nz
+  - email: nick-wittenberg@hotmail.com
   - linkdin: https://www.linkedin.com/in/nick-wittenberg/
 
 <!---
